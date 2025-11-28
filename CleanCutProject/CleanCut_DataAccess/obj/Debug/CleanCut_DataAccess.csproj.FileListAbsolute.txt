@@ -1,0 +1,6 @@
+D:\Programming\ProgrammingC#\CleanCut_DataAccess\bin\Debug\CleanCut_DataAccess.dll
+D:\Programming\ProgrammingC#\CleanCut_DataAccess\bin\Debug\CleanCut_DataAccess.pdb
+D:\Programming\ProgrammingC#\CleanCut_DataAccess\obj\Debug\CleanCut_DataAccess.csproj.AssemblyReference.cache
+D:\Programming\ProgrammingC#\CleanCut_DataAccess\obj\Debug\CleanCut_DataAccess.csproj.CoreCompileInputs.cache
+D:\Programming\ProgrammingC#\CleanCut_DataAccess\obj\Debug\CleanCut_DataAccess.dll
+D:\Programming\ProgrammingC#\CleanCut_DataAccess\obj\Debug\CleanCut_DataAccess.pdb

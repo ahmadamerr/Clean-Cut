@@ -1,0 +1,1095 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\ProgrammingC#\\CleanCut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|d:\\programming\\programmingc#\\cleancut\\scissor_scissors_tool_school_cut_icon_209313 (1).ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:scissor_scissors_tool_school_cut_icon_209313 (1).ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D90DFD-BD25-4B36-853A-D3D465DF46E7}|..\\CleanCut_DataAccess\\CleanCut_DataAccess.csproj|d:\\programming\\programmingc#\\cleancut_dataaccess\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D90DFD-BD25-4B36-853A-D3D465DF46E7}|..\\CleanCut_DataAccess\\CleanCut_DataAccess.csproj|d:\\programming\\programmingc#\\cleancut_dataaccess\\clsdataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmad\\AppData\\Local\\Temp\\dbonsvbu..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\globalclasses\\clsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:globalclasses\\clsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D90DFD-BD25-4B36-853A-D3D465DF46E7}|..\\CleanCut_DataAccess\\CleanCut_DataAccess.csproj|d:\\programming\\programmingc#\\cleancut_dataaccess\\clscutdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmad\\AppData\\Local\\Temp\\z1dtdgey..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdatededuction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdatededuction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrlcustomerwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrlcustomerwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AFB3AF-588A-40B5-81F5-07B28CD72237}|..\\ClassLibrary1\\CleanCut_Business.csproj|d:\\programming\\programmingc#\\classlibrary1\\clscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AFB3AF-588A-40B5-81F5-07B28CD72237}|..\\ClassLibrary1\\CleanCut_Business.csproj|d:\\programming\\programmingc#\\classlibrary1\\clscut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrlcustomercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrlcustomercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdatecut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdatecut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AFB3AF-588A-40B5-81F5-07B28CD72237}|..\\ClassLibrary1\\CleanCut_Business.csproj|d:\\programming\\programmingc#\\classlibrary1\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AFB3AF-588A-40B5-81F5-07B28CD72237}|..\\ClassLibrary1\\CleanCut_Business.csproj|d:\\programming\\programmingc#\\classlibrary1\\clscutdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AFB3AF-588A-40B5-81F5-07B28CD72237}|..\\ClassLibrary1\\CleanCut_Business.csproj|d:\\programming\\programmingc#\\classlibrary1\\clscuttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdatecut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdatecut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrlcutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrlcutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrlcutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrlcutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmpaydebt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmpaydebt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmpaydebt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmpaydebt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrlcustomercard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrlcustomercard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmexpensesinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmexpensesinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D90DFD-BD25-4B36-853A-D3D465DF46E7}|..\\CleanCut_DataAccess\\CleanCut_DataAccess.csproj|d:\\programming\\programmingc#\\cleancut_dataaccess\\clscustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrlcustomerwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrlcustomerwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D90DFD-BD25-4B36-853A-D3D465DF46E7}|..\\CleanCut_DataAccess\\CleanCut_DataAccess.csproj|d:\\programming\\programmingc#\\cleancut_dataaccess\\clscutdetailsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D90DFD-BD25-4B36-853A-D3D465DF46E7}|..\\CleanCut_DataAccess\\CleanCut_DataAccess.csproj|d:\\programming\\programmingc#\\cleancut_dataaccess\\clscuttypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D90DFD-BD25-4B36-853A-D3D465DF46E7}|..\\CleanCut_DataAccess\\CleanCut_DataAccess.csproj|d:\\programming\\programmingc#\\cleancut_dataaccess\\clsexpensesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdatecuttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdatecuttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdatecuttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdatecuttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcustomerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcustomerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrltypecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrltypecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrldeductioncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrldeductioncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmdeductioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmdeductioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcustomerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcustomerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrldeductioncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrldeductioncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcuttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcuttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AFB3AF-588A-40B5-81F5-07B28CD72237}|..\\ClassLibrary1\\CleanCut_Business.csproj|d:\\programming\\programmingc#\\classlibrary1\\clsexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcuttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcuttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmaddupdateexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmaddupdateexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrltypecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrltypecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcuttypeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcuttypeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\frmcuttypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:frmcuttypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|D:\\Programming\\ProgrammingC#\\CleanCut\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C85275-E90E-47B2-8D22-FDC85536E1CC}|CleanCut.csproj|solutionrelative:controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AFB3AF-588A-40B5-81F5-07B28CD72237}|..\\ClassLibrary1\\CleanCut_Business.csproj|d:\\programming\\programmingc#\\classlibrary1\\clsdeduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCut.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCut.cs",
+              "RelativeDocumentMoniker": "frmCut.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCut.cs",
+              "RelativeToolTip": "frmCut.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAlwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:58:00.608Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scissor_scissors_tool_school_cut_icon_209313 (1).ico - Icon [64x64, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\scissor_scissors_tool_school_cut_icon_209313 (1).ico",
+              "RelativeDocumentMoniker": "scissor_scissors_tool_school_cut_icon_209313 (1).ico",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\scissor_scissors_tool_school_cut_icon_209313 (1).ico - Icon [64x64, 32 bit, BMP]",
+              "RelativeToolTip": "scissor_scissors_tool_school_cut_icon_209313 (1).ico - Icon [64x64, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-11-18T17:29:22.86Z",
+              "EditorCaption": " - Icon [64x64, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA3wBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:12:31.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\CleanCut_DataAccess\\clsUserData.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsUserData.cs",
+              "RelativeToolTip": "..\\CleanCut_DataAccess\\clsUserData.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAIA3wEQBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:42:37.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDataConnection.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsDataConnection.cs",
+              "RelativeDocumentMoniker": "..\\CleanCut_DataAccess\\clsDataConnection.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsDataConnection.cs",
+              "RelativeToolTip": "..\\CleanCut_DataAccess\\clsDataConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:47:23.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-14T16:56:37.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbonsvbu..sql",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\AppData\\Local\\Temp\\dbonsvbu..sql",
+              "ToolTip": "C:\\Users\\Ahmad\\AppData\\Local\\Temp\\dbonsvbu..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-15T16:42:22.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "z1dtdgey..sql",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\AppData\\Local\\Temp\\z1dtdgey..sql",
+              "ToolTip": "C:\\Users\\Ahmad\\AppData\\Local\\Temp\\z1dtdgey..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-14T16:49:04.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-11-15T15:15:08.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:23:22.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsUtils.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\GlobalClasses\\clsUtils.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsUtils.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\GlobalClasses\\clsUtils.cs",
+              "RelativeToolTip": "GlobalClasses\\clsUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:03:01.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:16:33.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "frmLogin.Designer.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmLogin.Designer.cs",
+              "RelativeToolTip": "frmLogin.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAArwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:54.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmExpenses.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmExpenses.cs",
+              "RelativeDocumentMoniker": "frmExpenses.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmExpenses.cs [Design]",
+              "RelativeToolTip": "frmExpenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:16:44.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAddUpdateDeduction.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateDeduction.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateDeduction.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateDeduction.cs [Design]",
+              "RelativeToolTip": "frmAddUpdateDeduction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:43:19.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsCutData.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsCutData.cs",
+              "RelativeDocumentMoniker": "..\\CleanCut_DataAccess\\clsCutData.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsCutData.cs",
+              "RelativeToolTip": "..\\CleanCut_DataAccess\\clsCutData.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:14:11.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:29:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmCut.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCut.cs",
+              "RelativeDocumentMoniker": "frmCut.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCut.cs [Design]",
+              "RelativeToolTip": "frmCut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:50:07.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ctrlCustomerWithFilter.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCustomerWithFilter.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlCustomerWithFilter.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCustomerWithFilter.cs",
+              "RelativeToolTip": "Controls\\ctrlCustomerWithFilter.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAvwEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:26:58.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ctrlCustomerCard.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCustomerCard.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlCustomerCard.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCustomerCard.cs",
+              "RelativeToolTip": "Controls\\ctrlCustomerCard.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAEwFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:33:09.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmExpenses.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmExpenses.cs",
+              "RelativeDocumentMoniker": "frmExpenses.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmExpenses.cs",
+              "RelativeToolTip": "frmExpenses.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAIwNcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T02:20:38.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAvwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:10:21.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsCustomer.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsCustomer.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\clsCustomer.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsCustomer.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\clsCustomer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAvwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:05:56.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmAddUpdateCut.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCut.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateCut.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCut.cs",
+              "RelativeToolTip": "frmAddUpdateCut.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAADwv7MAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:25:10.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\clsUser.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsUser.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\clsUser.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAMBcwJMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:37:07.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsCut.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsCut.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\clsCut.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsCut.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\clsCut.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:01:45.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsCutType.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsCutType.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\clsCutType.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsCutType.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\clsCutType.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAvwGIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:36:47.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsCutDetails.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsCutDetails.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\clsCutDetails.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsCutDetails.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\clsCutDetails.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAEwFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:19:52.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmAddUpdateCut.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCut.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateCut.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCut.cs [Design]",
+              "RelativeToolTip": "frmAddUpdateCut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:21:14.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmAddUpdateCustomer.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCustomer.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateCustomer.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCustomer.cs",
+              "RelativeToolTip": "frmAddUpdateCustomer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:18:18.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ctrlCutInfo.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCutInfo.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlCutInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCutInfo.cs",
+              "RelativeToolTip": "Controls\\ctrlCutInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:39:54.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ctrlCutInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCutInfo.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlCutInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCutInfo.cs [Design]",
+              "RelativeToolTip": "Controls\\ctrlCutInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:25:21.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmCustomers.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "frmCustomers.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCustomers.cs",
+              "RelativeToolTip": "frmCustomers.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAhwL4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:37:24.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmCustomers.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "frmCustomers.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCustomers.cs [Design]",
+              "RelativeToolTip": "frmCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T02:15:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmAddUpdateCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCustomer.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateCustomer.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCustomer.cs [Design]",
+              "RelativeToolTip": "frmAddUpdateCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:18:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmPayDebt.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmPayDebt.cs",
+              "RelativeDocumentMoniker": "frmPayDebt.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmPayDebt.cs",
+              "RelativeToolTip": "frmPayDebt.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowFoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:35:55.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmAddUpdateUser.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateUser.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateUser.cs [Design]",
+              "RelativeToolTip": "frmAddUpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:53:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmPayDebt.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmPayDebt.cs",
+              "RelativeDocumentMoniker": "frmPayDebt.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmPayDebt.cs [Design]",
+              "RelativeToolTip": "frmPayDebt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:54:26.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ctrlCustomerCard.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCustomerCard.Designer.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlCustomerCard.Designer.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCustomerCard.Designer.cs",
+              "RelativeToolTip": "Controls\\ctrlCustomerCard.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAArwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:39:37.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmExpensesInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmExpensesInfo.cs",
+              "RelativeDocumentMoniker": "frmExpensesInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmExpensesInfo.cs [Design]",
+              "RelativeToolTip": "frmExpensesInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:36:37.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "clsCustomerData.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsCustomerData.cs",
+              "RelativeDocumentMoniker": "..\\CleanCut_DataAccess\\clsCustomerData.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsCustomerData.cs",
+              "RelativeToolTip": "..\\CleanCut_DataAccess\\clsCustomerData.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAuwP4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:54:08.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ctrlCustomerWithFilter.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCustomerWithFilter.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlCustomerWithFilter.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlCustomerWithFilter.cs [Design]",
+              "RelativeToolTip": "Controls\\ctrlCustomerWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:12:06.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "clsCutTypeData.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsCutTypeData.cs",
+              "RelativeDocumentMoniker": "..\\CleanCut_DataAccess\\clsCutTypeData.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsCutTypeData.cs",
+              "RelativeToolTip": "..\\CleanCut_DataAccess\\clsCutTypeData.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAvwNgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T01:52:09.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "clsCutDetailsData.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsCutDetailsData.cs",
+              "RelativeDocumentMoniker": "..\\CleanCut_DataAccess\\clsCutDetailsData.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsCutDetailsData.cs",
+              "RelativeToolTip": "..\\CleanCut_DataAccess\\clsCutDetailsData.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAEwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:13:53.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmCutInfo.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutInfo.cs",
+              "RelativeDocumentMoniker": "frmCutInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutInfo.cs",
+              "RelativeToolTip": "frmCutInfo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:23:51.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmAddUpdateUser.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateUser.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateUser.cs",
+              "RelativeToolTip": "frmAddUpdateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:53:42.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "clsExpensesData.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsExpensesData.cs",
+              "RelativeDocumentMoniker": "..\\CleanCut_DataAccess\\clsExpensesData.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut_DataAccess\\clsExpensesData.cs",
+              "RelativeToolTip": "..\\CleanCut_DataAccess\\clsExpensesData.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:14:30.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmAddUpdateCutType.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCutType.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateCutType.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCutType.cs",
+              "RelativeToolTip": "frmAddUpdateCutType.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:57:40.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmAddUpdateCutType.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCutType.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateCutType.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateCutType.cs [Design]",
+              "RelativeToolTip": "frmAddUpdateCutType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:56:37.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmCustomerInfo.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCustomerInfo.cs",
+              "RelativeDocumentMoniker": "frmCustomerInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCustomerInfo.cs",
+              "RelativeToolTip": "frmCustomerInfo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:26:13.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmCutInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutInfo.cs",
+              "RelativeDocumentMoniker": "frmCutInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutInfo.cs [Design]",
+              "RelativeToolTip": "frmCutInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:45:46.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ctrlTypeCard.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlTypeCard.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlTypeCard.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlTypeCard.cs [Design]",
+              "RelativeToolTip": "Controls\\ctrlTypeCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T02:04:41.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmUserInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "frmUserInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmUserInfo.cs [Design]",
+              "RelativeToolTip": "frmUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:43:27.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ctrlDeductionCard.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlDeductionCard.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlDeductionCard.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlDeductionCard.cs [Design]",
+              "RelativeToolTip": "Controls\\ctrlDeductionCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:27:18.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmUserInfo.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "frmUserInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmUserInfo.cs",
+              "RelativeToolTip": "frmUserInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:43:49.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmDeductionInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmDeductionInfo.cs",
+              "RelativeDocumentMoniker": "frmDeductionInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmDeductionInfo.cs [Design]",
+              "RelativeToolTip": "frmDeductionInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:23:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmCustomerInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCustomerInfo.cs",
+              "RelativeDocumentMoniker": "frmCustomerInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCustomerInfo.cs [Design]",
+              "RelativeToolTip": "frmCustomerInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:26:12.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ctrlDeductionCard.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlDeductionCard.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlDeductionCard.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlDeductionCard.cs",
+              "RelativeToolTip": "Controls\\ctrlDeductionCard.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:34:58.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmCutTypes.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutTypes.cs",
+              "RelativeDocumentMoniker": "frmCutTypes.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutTypes.cs [Design]",
+              "RelativeToolTip": "frmCutTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:23:05.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmUsers.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmUsers.cs",
+              "RelativeDocumentMoniker": "frmUsers.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmUsers.cs [Design]",
+              "RelativeToolTip": "frmUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:08:34.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmUsers.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmUsers.cs",
+              "RelativeDocumentMoniker": "frmUsers.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmUsers.cs",
+              "RelativeToolTip": "frmUsers.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwDUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:08:36.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "clsExpenses.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsExpenses.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\clsExpenses.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsExpenses.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\clsExpenses.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:37:08.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmCutTypes.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutTypes.cs",
+              "RelativeDocumentMoniker": "frmCutTypes.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutTypes.cs",
+              "RelativeToolTip": "frmCutTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:20:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmAddUpdateExpense.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateExpense.cs",
+              "RelativeDocumentMoniker": "frmAddUpdateExpense.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmAddUpdateExpense.cs",
+              "RelativeToolTip": "frmAddUpdateExpense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T01:14:18.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ctrlTypeCard.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlTypeCard.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlTypeCard.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlTypeCard.cs",
+              "RelativeToolTip": "Controls\\ctrlTypeCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:04:50.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmCutTypeInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutTypeInfo.cs",
+              "RelativeDocumentMoniker": "frmCutTypeInfo.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutTypeInfo.cs [Design]",
+              "RelativeToolTip": "frmCutTypeInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:45:23.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmCutTypes.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutTypes.Designer.cs",
+              "RelativeDocumentMoniker": "frmCutTypes.Designer.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\frmCutTypes.Designer.cs",
+              "RelativeToolTip": "frmCutTypes.Designer.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAUwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:52:56.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ctrlUserCard.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlUserCard.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\CleanCut\\Controls\\ctrlUserCard.cs",
+              "RelativeToolTip": "Controls\\ctrlUserCard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:41:00.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "clsDeduction.cs",
+              "DocumentMoniker": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsDeduction.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\clsDeduction.cs",
+              "ToolTip": "D:\\Programming\\ProgrammingC#\\ClassLibrary1\\clsDeduction.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\clsDeduction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:36:50.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

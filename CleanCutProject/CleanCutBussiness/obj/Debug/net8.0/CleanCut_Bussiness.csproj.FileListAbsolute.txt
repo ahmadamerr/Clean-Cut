@@ -1,0 +1,16 @@
+D:\Programming\ProgrammingC#\CleanCutBussiness\bin\Debug\net8.0\CleanCut_Bussiness.deps.json
+D:\Programming\ProgrammingC#\CleanCutBussiness\bin\Debug\net8.0\CleanCut_Bussiness.dll
+D:\Programming\ProgrammingC#\CleanCutBussiness\bin\Debug\net8.0\CleanCut_Bussiness.pdb
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\CleanCut_Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\CleanCut_Bussiness.AssemblyInfoInputs.cache
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\CleanCut_Bussiness.AssemblyInfo.cs
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\CleanCut_Bussiness.csproj.CoreCompileInputs.cache
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\CleanCut_Bussiness.sourcelink.json
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\CleanCut_Bussiness.dll
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\refint\CleanCut_Bussiness.dll
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\CleanCut_Bussiness.pdb
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\ref\CleanCut_Bussiness.dll
+D:\Programming\ProgrammingC#\CleanCutBussiness\bin\Debug\net8.0\CleanCut_DataAccess.dll
+D:\Programming\ProgrammingC#\CleanCutBussiness\bin\Debug\net8.0\CleanCut_DataAccess.pdb
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\CleanCut_Bussiness.csproj.AssemblyReference.cache
+D:\Programming\ProgrammingC#\CleanCutBussiness\obj\Debug\net8.0\CleanCut.BA49AF81.Up2Date

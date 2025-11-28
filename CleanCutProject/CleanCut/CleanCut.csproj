@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15C85275-E90E-47B2-8D22-FDC85536E1CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CleanCut</RootNamespace>
+    <AssemblyName>CleanCut</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>scissor_scissors_tool_school_cut_icon_209313 %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\ctrlCustomerCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctrlCustomerCard.Designer.cs">
+      <DependentUpon>ctrlCustomerCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlCustomerWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctrlCustomerWithFilter.Designer.cs">
+      <DependentUpon>ctrlCustomerWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlCutInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctrlCutInfo.Designer.cs">
+      <DependentUpon>ctrlCutInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlDeductionCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctrlDeductionCard.Designer.cs">
+      <DependentUpon>ctrlDeductionCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlExpensesCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctrlExpensesCard.Designer.cs">
+      <DependentUpon>ctrlExpensesCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlTypeCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctrlTypeCard.Designer.cs">
+      <DependentUpon>ctrlTypeCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctrlUserCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctrlUserCard.Designer.cs">
+      <DependentUpon>ctrlUserCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddUpdateCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddUpdateCustomer.Designer.cs">
+      <DependentUpon>frmAddUpdateCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddUpdateCut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddUpdateCut.Designer.cs">
+      <DependentUpon>frmAddUpdateCut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddUpdateCutType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddUpdateCutType.Designer.cs">
+      <DependentUpon>frmAddUpdateCutType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddUpdateDeduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddUpdateDeduction.Designer.cs">
+      <DependentUpon>frmAddUpdateDeduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddUpdateExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddUpdateExpense.Designer.cs">
+      <DependentUpon>frmAddUpdateExpense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddUpdateUser.Designer.cs">
+      <DependentUpon>frmAddUpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerInfo.Designer.cs">
+      <DependentUpon>frmCustomerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomers.Designer.cs">
+      <DependentUpon>frmCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCut.Designer.cs">
+      <DependentUpon>frmCut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCutInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCutInfo.Designer.cs">
+      <DependentUpon>frmCutInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCutTypeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCutTypeInfo.Designer.cs">
+      <DependentUpon>frmCutTypeInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCutTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCutTypes.Designer.cs">
+      <DependentUpon>frmCutTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeductionInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeductionInfo.Designer.cs">
+      <DependentUpon>frmDeductionInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeductions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeductions.Designer.cs">
+      <DependentUpon>frmDeductions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExpenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExpenses.Designer.cs">
+      <DependentUpon>frmExpenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExpensesInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExpensesInfo.Designer.cs">
+      <DependentUpon>frmExpensesInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayDebt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPayDebt.Designer.cs">
+      <DependentUpon>frmPayDebt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserInfo.Designer.cs">
+      <DependentUpon>frmUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsers.Designer.cs">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalClasses\clsGlobal.cs" />
+    <Compile Include="GlobalClasses\clsUtils.cs" />
+    <Compile Include="GlobalClasses\LocalDBHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controls\ctrlCustomerCard.resx">
+      <DependentUpon>ctrlCustomerCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctrlCustomerWithFilter.resx">
+      <DependentUpon>ctrlCustomerWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctrlCutInfo.resx">
+      <DependentUpon>ctrlCutInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctrlDeductionCard.resx">
+      <DependentUpon>ctrlDeductionCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctrlExpensesCard.resx">
+      <DependentUpon>ctrlExpensesCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctrlTypeCard.resx">
+      <DependentUpon>ctrlTypeCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctrlUserCard.resx">
+      <DependentUpon>ctrlUserCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddUpdateCustomer.resx">
+      <DependentUpon>frmAddUpdateCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddUpdateCut.resx">
+      <DependentUpon>frmAddUpdateCut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddUpdateCutType.resx">
+      <DependentUpon>frmAddUpdateCutType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddUpdateDeduction.resx">
+      <DependentUpon>frmAddUpdateDeduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddUpdateExpense.resx">
+      <DependentUpon>frmAddUpdateExpense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddUpdateUser.resx">
+      <DependentUpon>frmAddUpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerInfo.resx">
+      <DependentUpon>frmCustomerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomers.resx">
+      <DependentUpon>frmCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCut.resx">
+      <DependentUpon>frmCut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCutInfo.resx">
+      <DependentUpon>frmCutInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCutTypeInfo.resx">
+      <DependentUpon>frmCutTypeInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCutTypes.resx">
+      <DependentUpon>frmCutTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeductionInfo.resx">
+      <DependentUpon>frmDeductionInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeductions.resx">
+      <DependentUpon>frmDeductions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExpenses.resx">
+      <DependentUpon>frmExpenses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExpensesInfo.resx">
+      <DependentUpon>frmExpensesInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayDebt.resx">
+      <DependentUpon>frmPayDebt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserInfo.resx">
+      <DependentUpon>frmUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsers.resx">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeBlack32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign_in 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close 321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeBlack321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\CleanCut_Business.csproj">
+      <Project>{10afb3af-588a-40b5-81f5-07b28cd72237}</Project>
+      <Name>CleanCut_Business</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People 400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scissors_466268.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scissors_6154778.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users 2 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_settings 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hair-dryer_1858066.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonDetails 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign_out 32 -2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users 2 400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add New User 72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add New User 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete 32 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tax_6526943.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expenses_5501391.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ApplicationType.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tax_6526943 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tax_6526943 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tax_6526943 %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People 4001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Person 40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Person 72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddPerson 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cutting_3547278.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_13633830.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expenses_55013911.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-wallet_12305730.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-wallet_12305730 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hair-dryer_18580661.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dryer_13236563.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\megaphone_8647561.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scissors_61547781.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\screenshot_7901944 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\screenshot_7901944.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barber_1995573.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barber-shop_6275796.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User 32 -2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SearchPerson.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Data\CleanCut.ldf">
+      <DependentUpon>CleanCut.mdf</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="scissor_scissors_tool_school_cut_icon_209313 %281%29.ico" />
+    <Content Include="Data\CleanCut.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
